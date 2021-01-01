@@ -8,3 +8,5 @@ gem 'github-pages'
 # Webrick is need to run `jekyll serve`
 # https://github.com/ruby/webrick
 gem 'webrick'
+
+gem 'bootstrap', '4.5.3'
