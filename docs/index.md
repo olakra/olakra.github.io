@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+feature_image: "https://picsum.photos/id/51/1300/400"
+feature_text: |
+  ## Midnight Musings
 ---
+
+There isn't much going on here yet, but watch this space
